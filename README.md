@@ -74,8 +74,8 @@ cltv-project/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cltv-project.git
-   cd cltv-project
+   git clone https://github.com/Santheeppa/Future-Value-Insights-CLTV.git
+   cd Future-Value-Insights-CLTV
    ```
 2. Create a virtual environment (optional but recommended):
    ```bash
@@ -98,16 +98,3 @@ cltv-project/
   | KNN                 | 85,997.40  | 0.081      |
 
 
----
-
-Hey there! 😊
-
-Thank you for taking the time to explore this Customer Lifetime Value (CLTV) Prediction Project. Your interest and support are greatly appreciated. If you have any questions, feedback, or suggestions, please feel free to reach out. Happy coding!
-
----
-
-Feel free to copy and paste this into your `README.md` file.
-
-Cheers, [Santheeppa]
----
-Feel free to contribute by submitting issues or pull requests.
